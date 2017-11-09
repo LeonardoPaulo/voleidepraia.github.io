@@ -1,0 +1,49 @@
+html { 
+	font-size: 10px; /* px significa 'pixels': o tamanho da fonte base é agora de 10 pixels */ 
+	font-family: 'Open Sans Condensed', sans-serif; /* este deve ser o nome da fonte que você obteve no Google Fonts */ 
+	background-color: #0066ff;
+}
+
+h1 {
+  	font-size: 60px;
+  	text-align: center;
+  	margin: 0;
+  	padding: 20px 20px;    
+  	color: #0066ff;
+  	text-shadow: 3px 3px 1px white;
+
+}
+
+h2 {
+  	font-size: 40px;
+  	text-align: center;
+  	margin: 0;
+  	padding: 20px 20px;    
+  	color: black;
+}
+
+p, li {
+  	font-size: 20px;    
+  	line-height: 2;
+  	letter-spacing: 1px;
+}
+
+body {
+  	width: 600px;
+  	margin: 0 auto;
+  	background-color: #ffcc00;
+  	padding: 0 20px 20px 20px;
+  	border: solid #ffcc00;
+}
+
+img {
+  	display: block;
+  	margin: 0 auto;  
+}
+
+button {
+	font-size: 20px;
+  	font-family: 'Open Sans Condensed', sans-serif;
+  	color: white;
+  	background-color: #0066ff;
+}
